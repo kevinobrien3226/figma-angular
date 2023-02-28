@@ -1,0 +1,38 @@
+.page-header {
+    background-color: black;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.bikcraft-png {
+    object-fit: cover;
+    width: 133.54px;
+    height: 28.58px;
+    padding-left: 220px;
+}
+
+.header-space-fill {
+    flex-grow: 1;
+}
+
+.nav-link-container {
+    color: #fafafa;
+    display: flex;
+    align-self: right;
+    font-family: poppins;
+    font-style: normal;
+    font-size: 18x;
+    line-height: 32px; 
+    line-height: 119%;
+    vertical-align: top;
+    text-align: left;
+    font-weight: 500;
+    margin: 10px;
+    justify-content: space-between;
+    width: 25vw;
+    padding-right: 220px;
+}
+
+
